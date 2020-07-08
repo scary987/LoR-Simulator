@@ -1,0 +1,15 @@
+{
+     "1": {
+          "Cinthria Cloudfield": {
+               "attack": 2,
+               "health": 2
+          }
+     },
+     "attack": {
+          "Crackshot Corsair": {
+               "attack": 1,
+               "effect": "CS CORSAIR",
+               "health": 1
+          }
+     }
+}

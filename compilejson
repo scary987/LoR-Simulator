@@ -1,0 +1,1 @@
+g++ make_json.cpp -I/home/scary__/LoR\ Simulator/json/single_include -o jsonmake.out -Wall

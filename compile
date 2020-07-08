@@ -1,0 +1,1 @@
+ g++ simulator.cpp -I/home/scary__/LoR\ Simulator/json/single_include -o simulator.out -Wall
